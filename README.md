@@ -29,10 +29,7 @@ Make sure you have the following installed:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
-> Replace `your-username` and `your-repo-name` with your actual GitHub details.
-
+git clone https://github.com/ChandanaJagadish/Android-Development.git
 ---
 
 ### Step 2: Open in Android Studio
