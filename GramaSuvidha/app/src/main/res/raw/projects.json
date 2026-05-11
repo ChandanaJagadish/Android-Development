@@ -1,0 +1,219 @@
+{
+  "version": "1.0",
+  "panchayat": "Hosahalli Grama Panchayat",
+  "district": "Mysuru",
+  "state": "Karnataka",
+  "last_updated": "2024-01-15",
+  "projects": [
+    {
+      "id": "PRJ001",
+      "title_en": "Main Village Road Repair",
+      "title_kn": "ಮುಖ್ಯ ಗ್ರಾಮ ರಸ್ತೆ ದುರಸ್ತಿ",
+      "description_en": "Repair and widening of the 2.5 km main road connecting the village to NH-275. Includes laying new tar, drainage channels, and road markings.",
+      "description_kn": "ಗ್ರಾಮವನ್ನು NH-275 ಗೆ ಸಂಪರ್ಕಿಸುವ 2.5 ಕಿ.ಮೀ ಮುಖ್ಯ ರಸ್ತೆಯ ದುರಸ್ತಿ ಮತ್ತು ಅಗಲಪಡಿಸುವಿಕೆ.",
+      "category": "ROADS",
+      "status": "IN_PROGRESS",
+      "progress_percent": 65,
+      "budget_inr": 1200000,
+      "amount_spent_inr": 780000,
+      "contractor": "Sri Venkateshwara Constructions",
+      "start_date": "2023-10-01",
+      "expected_end_date": "2024-03-31",
+      "ward_number": 3,
+      "image_before_url": "https://picsum.photos/seed/road_before/600/400",
+      "image_after_url": "https://picsum.photos/seed/road_after/600/400",
+      "updates": [
+        {
+          "date": "2024-01-10",
+          "note_en": "Tar laying completed for first 1.6 km",
+          "note_kn": "ಮೊದಲ 1.6 ಕಿ.ಮೀಗೆ ಟಾರ್ ಹಾಕುವ ಕೆಲಸ ಮುಗಿದಿದೆ"
+        },
+        {
+          "date": "2023-12-05",
+          "note_en": "Old road surface removed and base course laid",
+          "note_kn": "ಹಳೆಯ ರಸ್ತೆ ಮೇಲ್ಮೈ ತೆಗೆದು ಬೇಸ್ ಕೋರ್ಸ್ ಹಾಕಲಾಗಿದೆ"
+        }
+      ]
+    },
+    {
+      "id": "PRJ002",
+      "title_en": "Borewell Installation — Ward 5",
+      "title_kn": "ಬೋರ್‌ವೆಲ್ ಅಳವಡಿಕೆ — ವಾರ್ಡ್ 5",
+      "description_en": "Installation of 2 new borewells with electric pumps and overhead tank to provide drinking water to 150 households in Ward 5.",
+      "description_kn": "ವಾರ್ಡ್ 5 ರಲ್ಲಿ 150 ಮನೆಗಳಿಗೆ ಕುಡಿಯುವ ನೀರು ಒದಗಿಸಲು 2 ಹೊಸ ಬೋರ್‌ವೆಲ್‌ಗಳು ಮತ್ತು ಓವರ್‌ಹೆಡ್ ಟ್ಯಾಂಕ್ ಅಳವಡಿಕೆ.",
+      "category": "WATER",
+      "status": "COMPLETED",
+      "progress_percent": 100,
+      "budget_inr": 450000,
+      "amount_spent_inr": 432000,
+      "contractor": "Jal Shakti Enterprises",
+      "start_date": "2023-07-15",
+      "expected_end_date": "2023-12-15",
+      "ward_number": 5,
+      "image_before_url": "https://picsum.photos/seed/bore_before/600/400",
+      "image_after_url": "https://picsum.photos/seed/bore_after/600/400",
+      "updates": [
+        {
+          "date": "2023-12-10",
+          "note_en": "Both borewells operational. Water supply started.",
+          "note_kn": "ಎರಡೂ ಬೋರ್‌ವೆಲ್‌ಗಳು ಕಾರ್ಯಾರಂಭ ಮಾಡಿವೆ. ನೀರು ಪೂರೈಕೆ ಆರಂಭ."
+        }
+      ]
+    },
+    {
+      "id": "PRJ003",
+      "title_en": "Community Hall Construction",
+      "title_kn": "ಸಮುದಾಯ ಭವನ ನಿರ್ಮಾಣ",
+      "description_en": "Construction of a 2000 sq ft community hall with stage, seating for 200 people, and attached toilets for village events and gram sabha meetings.",
+      "description_kn": "ಗ್ರಾಮ ಕಾರ್ಯಕ್ರಮಗಳು ಮತ್ತು ಗ್ರಾಮ ಸಭೆಗಳಿಗಾಗಿ 2000 ಚ.ಅಡಿ ಸಮುದಾಯ ಭವನ ನಿರ್ಮಾಣ.",
+      "category": "BUILDING",
+      "status": "IN_PROGRESS",
+      "progress_percent": 40,
+      "budget_inr": 3500000,
+      "amount_spent_inr": 1400000,
+      "contractor": "Mysuru Civil Works Pvt Ltd",
+      "start_date": "2023-09-01",
+      "expected_end_date": "2024-06-30",
+      "ward_number": 1,
+      "image_before_url": "https://picsum.photos/seed/hall_before/600/400",
+      "image_after_url": "https://picsum.photos/seed/hall_wip/600/400",
+      "updates": [
+        {
+          "date": "2024-01-08",
+          "note_en": "Columns and first floor slab completed",
+          "note_kn": "ಕಂಬಗಳು ಮತ್ತು ಮೊದಲ ಮಹಡಿ ಸ್ಲ್ಯಾಬ್ ಪೂರ್ಣಗೊಂಡಿದೆ"
+        },
+        {
+          "date": "2023-11-20",
+          "note_en": "Foundation and plinth completed",
+          "note_kn": "ಅಡಿಪಾಯ ಮತ್ತು ಪ್ಲಿಂತ್ ಪೂರ್ಣಗೊಂಡಿದೆ"
+        }
+      ]
+    },
+    {
+      "id": "PRJ004",
+      "title_en": "Pond Rejuvenation — Kalyani Kere",
+      "title_kn": "ಕೆರೆ ಪುನರುಜ್ಜೀವನ — ಕಲ್ಯಾಣಿ ಕೆರೆ",
+      "description_en": "Desilting and bund strengthening of the 3-acre Kalyani Kere pond to enhance groundwater recharge and provide water for agricultural use.",
+      "description_kn": "ಅಂತರ್ಜಲ ಪುನರ್ಭರ್ತಿ ಮತ್ತು ಕೃಷಿ ಉಪಯೋಗಕ್ಕಾಗಿ 3 ಎಕರೆ ಕಲ್ಯಾಣಿ ಕೆರೆ ಹೂಳೆತ್ತುವಿಕೆ.",
+      "category": "ENVIRONMENT",
+      "status": "IN_PROGRESS",
+      "progress_percent": 80,
+      "budget_inr": 800000,
+      "amount_spent_inr": 640000,
+      "contractor": "Gram Vikas Society",
+      "start_date": "2023-11-01",
+      "expected_end_date": "2024-02-28",
+      "ward_number": 2,
+      "image_before_url": "https://picsum.photos/seed/pond_before/600/400",
+      "image_after_url": "https://picsum.photos/seed/pond_after/600/400",
+      "updates": [
+        {
+          "date": "2024-01-12",
+          "note_en": "Desilting 80% complete. Bund strengthening ongoing.",
+          "note_kn": "80% ಹೂಳೆತ್ತುವಿಕೆ ಪೂರ್ಣ. ಕಟ್ಟೆ ಕಾಮಗಾರಿ ಮುಂದುವರೆದಿದೆ."
+        }
+      ]
+    },
+    {
+      "id": "PRJ005",
+      "title_en": "Solar Street Lights Installation",
+      "title_kn": "ಸೌರ ಬೀದಿ ದೀಪಗಳ ಅಳವಡಿಕೆ",
+      "description_en": "Installation of 45 solar-powered LED street lights across all 7 wards to improve night safety and reduce electricity costs.",
+      "description_kn": "ರಾತ್ರಿ ಸುರಕ್ಷತೆ ಹೆಚ್ಚಿಸಲು 7 ವಾರ್ಡ್‌ಗಳಲ್ಲಿ 45 ಸೌರ LED ಬೀದಿ ದೀಪ ಅಳವಡಿಕೆ.",
+      "category": "ELECTRICITY",
+      "status": "NOT_STARTED",
+      "progress_percent": 0,
+      "budget_inr": 675000,
+      "amount_spent_inr": 0,
+      "contractor": "TBD - Tender Floated",
+      "start_date": "2024-02-01",
+      "expected_end_date": "2024-04-30",
+      "ward_number": 0,
+      "image_before_url": "https://picsum.photos/seed/solar_plan/600/400",
+      "image_after_url": "https://picsum.photos/seed/solar_sample/600/400",
+      "updates": [
+        {
+          "date": "2024-01-05",
+          "note_en": "Tender published. Last date for bids: Jan 25, 2024",
+          "note_kn": "ಟೆಂಡರ್ ಪ್ರಕಟಿಸಲಾಗಿದೆ. ಬಿಡ್ ಕೊನೆಯ ದಿನ: ಜ. 25, 2024"
+        }
+      ]
+    },
+    {
+      "id": "PRJ006",
+      "title_en": "Anganwadi Building Renovation",
+      "title_kn": "ಅಂಗನವಾಡಿ ಕಟ್ಟಡ ನವೀಕರಣ",
+      "description_en": "Renovation of 2 Anganwadi centres including waterproofing, new flooring, painting, and installation of child-friendly furniture.",
+      "description_kn": "2 ಅಂಗನವಾಡಿ ಕೇಂದ್ರಗಳ ನವೀಕರಣ — ವಾಟರ್‌ಪ್ರೂಫಿಂಗ್, ಹೊಸ ನೆಲಗಟ್ಟು ಮತ್ತು ಮಕ್ಕಳ ಫರ್ನಿಚರ್ ಅಳವಡಿಕೆ.",
+      "category": "EDUCATION",
+      "status": "COMPLETED",
+      "progress_percent": 100,
+      "budget_inr": 280000,
+      "amount_spent_inr": 271000,
+      "contractor": "Local Self-Help Group",
+      "start_date": "2023-06-01",
+      "expected_end_date": "2023-09-30",
+      "ward_number": 4,
+      "image_before_url": "https://picsum.photos/seed/anganwadi_before/600/400",
+      "image_after_url": "https://picsum.photos/seed/anganwadi_after/600/400",
+      "updates": [
+        {
+          "date": "2023-09-28",
+          "note_en": "Both Anganwadis fully renovated and reopened",
+          "note_kn": "ಎರಡೂ ಅಂಗನವಾಡಿಗಳು ಸಂಪೂರ್ಣ ನವೀಕರಣಗೊಂಡು ಮರು ತೆರೆದಿವೆ"
+        }
+      ]
+    },
+    {
+      "id": "PRJ007",
+      "title_en": "Solid Waste Management Unit",
+      "title_kn": "ಘನ ತ್ಯಾಜ್ಯ ನಿರ್ವಹಣಾ ಘಟಕ",
+      "description_en": "Setting up a village-level solid waste management unit with composting pit, biogas plant, and door-to-door waste collection.",
+      "description_kn": "ಕಾಂಪೋಸ್ಟ್ ಗುಂಡಿ, ಬಯೋಗ್ಯಾಸ್ ಘಟಕ ಮತ್ತು ಮನೆ-ಮನೆ ತ್ಯಾಜ್ಯ ಸಂಗ್ರಹ ವ್ಯವಸ್ಥೆ.",
+      "category": "SANITATION",
+      "status": "IN_PROGRESS",
+      "progress_percent": 55,
+      "budget_inr": 500000,
+      "amount_spent_inr": 275000,
+      "contractor": "Swachh Bharath Mission Cell",
+      "start_date": "2023-10-15",
+      "expected_end_date": "2024-03-15",
+      "ward_number": 6,
+      "image_before_url": "https://picsum.photos/seed/waste_before/600/400",
+      "image_after_url": "https://picsum.photos/seed/waste_wip/600/400",
+      "updates": [
+        {
+          "date": "2024-01-03",
+          "note_en": "Composting unit ready. Biogas plant foundation started.",
+          "note_kn": "ಕಾಂಪೋಸ್ಟ್ ಘಟಕ ಸಿದ್ಧ. ಬಯೋಗ್ಯಾಸ್ ಅಡಿಪಾಯ ಕಾರ್ಯ ಆರಂಭ."
+        }
+      ]
+    },
+    {
+      "id": "PRJ008",
+      "title_en": "Primary Health Centre Upgradation",
+      "title_kn": "ಪ್ರಾಥಮಿಕ ಆರೋಗ್ಯ ಕೇಂದ್ರ ಉನ್ನತೀಕರಣ",
+      "description_en": "Upgradation of the village PHC with new diagnostic equipment, waiting room expansion, and telemedicine facility.",
+      "description_kn": "ಹೊಸ ರೋಗ ನಿರ್ಣಯ ಉಪಕರಣಗಳು, ಕಾಯುವ ಕೋಣೆ ವಿಸ್ತರಣೆ ಮತ್ತು ಟೆಲಿಮೆಡಿಸಿನ್ ಸೌಲಭ್ಯ.",
+      "category": "HEALTH",
+      "status": "IN_PROGRESS",
+      "progress_percent": 30,
+      "budget_inr": 950000,
+      "amount_spent_inr": 285000,
+      "contractor": "Karnataka Health Infrastructure Corp",
+      "start_date": "2023-12-01",
+      "expected_end_date": "2024-05-31",
+      "ward_number": 7,
+      "image_before_url": "https://picsum.photos/seed/phc_before/600/400",
+      "image_after_url": "https://picsum.photos/seed/phc_wip/600/400",
+      "updates": [
+        {
+          "date": "2024-01-11",
+          "note_en": "Waiting room extension work in progress",
+          "note_kn": "ಕಾಯುವ ಕೊಠಡಿ ವಿಸ್ತರಣಾ ಕಾರ್ಯ ಪ್ರಗತಿಯಲ್ಲಿದೆ"
+        }
+      ]
+    }
+  ]
+}
